@@ -42,5 +42,4 @@ class ArticlesController < ApplicationController
 
 		redirect_to article_path(@article)
 	end
-
 end
